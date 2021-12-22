@@ -1,0 +1,2 @@
+# Mindset
+Just a website
